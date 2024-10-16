@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+p {
+    font-size: small;
+}
